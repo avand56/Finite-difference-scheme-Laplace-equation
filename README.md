@@ -6,5 +6,6 @@ Laplace's equation can be used to model potentials and phenomena that reach equi
 
 # Electrodynamics
 Laplace's equation can be used to model problems in electrostatics, fluid mechanics, and gravitation.
-The code used here models the electric field caused by a
-This relaxation method is called Jacobi's method. Other methods could be used to solve the Laplace equation.
+The code used here models the electric potential.
+This relaxation method is called Jacobi's method. 
+Other methods could be used to solve the Laplace equation.
